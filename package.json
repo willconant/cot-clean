@@ -1,0 +1,17 @@
+{
+  "name": "cot-clean",
+  "description": "",
+  "keywords": ["couch", "couchdb", "cot", "validate", "validation", "validator"],
+  "version": "0.0.1",
+  "main": "cot-clean",
+  "dependencies": {},
+  "author": {
+    "name": "Will Conant",
+    "email": "will.conant@gmail.com",
+    "url": "http://willconant.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/willconant/cot-clean"
+  }  
+}
